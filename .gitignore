@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.html linguist-language=python
+*.html linguist-language=Python
 
 # C extensions
 *.so
